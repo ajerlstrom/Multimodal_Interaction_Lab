@@ -1,2 +1,2 @@
 # Multimodal_Interaction_Lab
-Lab 1 multimodal
+Lab assignment 1 for the Multimodal Interaction course at KTH. Introduction to AR with Unity using Vuforia.
